@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Cutout
+  - Spike
   layers:
   - Default
   - TransparentFX
